@@ -1,0 +1,15 @@
+Flask==0.10.1
+Jinja2==2.7.3
+MarkupSafe==0.23
+Werkzeug==0.9.6
+ipython==2.2.0
+itsdangerous==0.24
+numpy==1.8.2
+pandas==0.14.1
+python-dateutil==2.2
+pytz==2014.4
+requests==2.3.0
+six==1.7.3
+vincent==0.4.4
+wsgiref==0.1.2
+xlrd==0.9.3
